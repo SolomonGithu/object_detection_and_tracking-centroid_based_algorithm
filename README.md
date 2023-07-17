@@ -1,4 +1,4 @@
-## Object detection with centroid-based tracking
+# Object detection with centroid-based tracking
 
 ![Cover image](media/cover_image.png)
 
@@ -10,7 +10,7 @@ This repository demonstrates how to implement object detection and tracking the 
 
 Please read up on the project's documentation on [hackster.io page](https://www.hackster.io/sologithu/object-detection-with-centroid-based-tracking-8b10e0) to help you get started on your own creation.
 
-Quick start :computer:
+## Quick start :computer:
 
 You can find the public Edge Impulse project here: [Object detection and tracking](https://studio.edgeimpulse.com/public/250177/latest). Feel free to clone it to your Edge Impulse projects.
 
@@ -53,7 +53,7 @@ python3 ei_object_detection_and_tracking.py
 [ WARN:0] global /io/opencv/modules/videoio/src/cap_v4l.cpp (802) open VIDEOIO ERROR: V4L: can't open camera by index 0
 ```
 
-### Tracking different objects :rocket:
+## Tracking different objects :rocket:
 
 Changing the tracked object is very simple and I would highly recommend training and deploying the Machine Learning model using [Edge Impulse](https://edgeimpulse.com/). To do this, please follow the following steps:
 
