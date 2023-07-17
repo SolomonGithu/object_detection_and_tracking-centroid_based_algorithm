@@ -8,6 +8,8 @@ This repository demonstrates how to implement object detection and tracking the 
 
 ![Project demo](media/object_detection_and_tracking_GIF.gif)
 
+Please read up on the project's documentation on [hackster.io page](https://www.hackster.io/sologithu/object-detection-with-centroid-based-tracking-8b10e0) to help you get started on your own creation.
+
 Quick start :computer:
 
 You can find the public Edge Impulse project here: [Object detection and tracking](https://studio.edgeimpulse.com/public/250177/latest). Feel free to clone it to your Edge Impulse projects.
