@@ -21,6 +21,18 @@ Since the object detection script uses Edge Impulse Linux Python SDK, it is impo
                                                                                             ^
 SyntaxError: invalid syntax
 
+___
+
+Clone the repository using Git
+```
+git clone https://github.com/SolomonGithu/object_detection_and_tracking-centroid_based_algorithm.git
+```
+
+Navigate into the repository
+```
+cd object_detection_and_tracking-centroid_based_algorithm
+```
+
 Install OpenCV for Python:
 ```
 pip3 install opencv-python
