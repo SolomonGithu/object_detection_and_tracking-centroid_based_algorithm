@@ -3,6 +3,8 @@
 # Credits: this script has been adapted from Edge Impulse's image classify.py example
 # https://github.com/edgeimpulse/linux-sdk-python/blob/master/examples/image/classify.py
 
+# Developed by: Solomon Muhunyo Githu, 17th July 2023.
+
 import cv2
 import os
 import time
