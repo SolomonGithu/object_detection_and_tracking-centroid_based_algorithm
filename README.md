@@ -1,4 +1,4 @@
-# Object detection with centroid-based tracking
+# Object detection with centroid-based tracking: with Python
 
 ![Cover image](media/cover_image.png)
 
