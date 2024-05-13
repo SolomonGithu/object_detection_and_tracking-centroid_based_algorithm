@@ -1,7 +1,8 @@
 #include "centroid_tracker.h"
 
-
-// Credits : https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+/*
+*  Developed by: Solomon Muhunyo Githu, 10th May 2024.
+*/
 
 /* This cpp file does the object tracking and returns the: 
     - number of objects being tracked

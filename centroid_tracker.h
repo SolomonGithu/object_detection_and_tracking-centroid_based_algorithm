@@ -1,6 +1,10 @@
 #ifndef CENTROID_TRACKER_H
 #define CENTROID_TRACKER_H
 
+/*
+*  Developed by: Solomon Muhunyo Githu, 10th May 2024.
+*/
+
 #include <iostream>
 #include <vector>
 #include <cmath>
