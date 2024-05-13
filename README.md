@@ -25,7 +25,7 @@ ___
 
 Clone the repository using Git
 ```
-git clone https://github.com/SolomonGithu/object_detection_and_tracking-centroid_based_algorithm.git
+git clone --branch with-python https://github.com/SolomonGithu/object_detection_and_tracking-centroid_based_algorithm.git
 ```
 
 Navigate into the repository
